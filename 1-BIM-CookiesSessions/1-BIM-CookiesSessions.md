@@ -23,6 +23,12 @@
 
 # Exercícios
 
+## Exercício 1 – Diferença entre Cookies e Sessions
+
+Cookies e sessions são formas de manter informações entre páginas em um site. Os *cookies* ficam armazenados no navegador do usuário, então eles continuam existindo mesmo depois que a pessoa fecha o site, dependendo do tempo definido. O problema é que, por estarem no computador do usuário, eles podem ser acessados e até alterados, o que diminui a segurança. Já as *sessions* funcionam diferente, porque os dados ficam guardados no servidor. O navegador recebe só um identificador, que serve para ligar o usuário aos dados salvos. Por isso, sessions são mais seguras e usadas em login e autenticação. No geral, cookies são mais usados para coisas simples, como preferências, enquanto sessions são melhores para dados importantes.
+
+---
+
 ## Exercício 2 – Aplicação em loja virtual
 
 Em uma loja virtual, dá pra usar cookies e sessions juntos tranquilamente. As *sessions* são boas para manter o usuário logado, porque guardam os dados no servidor e são mais seguras. Também fazem sentido no carrinho de compras, já que os produtos adicionados são temporários e não devem ser facilmente alterados pelo usuário. Já os *cookies* podem ser usados para salvar preferências, como idioma do site, tema escuro ou até produtos que a pessoa viu recentemente. Isso ajuda a melhorar a experiência do usuário sem precisar de muita 

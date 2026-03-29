@@ -14,10 +14,10 @@
 ---
 
 ## Autores
-- `Alex dos Santos Apolinario`
-- `Ana Carolina Bernal Santos`
-- `Arthur Alexandre Dias Silva`
-- `Helena Bianquini Carriço`
+- `Bianca Rocha do Nascimento`
+- `Davi Alves Bressan`
+- `Gustavo Bastos da Silva`
+- `Kevin Iamake Nozaki`
 
 ---
 

@@ -1,3 +1,28 @@
+## Instituição 
+`ETEC Vasco Antônio Venchiarutti`
+
+---
+
+## Curso
+`Informática para Internet`
+
+---
+
+## Turma
+`2°D`
+
+---
+
+## Autores
+- `Alex dos Santos Apolinario`
+- `Ana Carolina Bernal Santos`
+- `Arthur Alexandre Dias Silva`
+- `Helena Bianquini Carriço`
+
+---
+
+# Exercícios
+
 ## Exercício 2 – Aplicação em loja virtual
 
 Em uma loja virtual, dá pra usar cookies e sessions juntos tranquilamente. As *sessions* são boas para manter o usuário logado, porque guardam os dados no servidor e são mais seguras. Também fazem sentido no carrinho de compras, já que os produtos adicionados são temporários e não devem ser facilmente alterados pelo usuário. Já os *cookies* podem ser usados para salvar preferências, como idioma do site, tema escuro ou até produtos que a pessoa viu recentemente. Isso ajuda a melhorar a experiência do usuário sem precisar de muita segurança. Assim, cada um tem sua função: sessions cuidam da parte mais importante e cookies ajudam na personalização.
